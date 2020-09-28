@@ -4,6 +4,20 @@ body {
 
 }
 
+.assignment {
+    display:flex;
+    padding:10px;
+}
+
+.assignment img {
+    width:200px;
+    padding:10px;
+    msrgin:10px;
+    background:lightgray;
+
+}
+
+
 h1 {
     color: darkorchid;
     text-align:center;
